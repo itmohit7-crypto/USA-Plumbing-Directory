@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Google ko batao ki sitemap kahan hai
+Sitemap: https://itmohit7-crypto.github.io/USA-Plumbing-Directory/sitemap.xml
